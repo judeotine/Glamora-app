@@ -1,0 +1,63 @@
+{
+  "common": {
+    "welcome": "Bienvenue",
+    "continue": "Continuer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "confirm": "Confirmer",
+    "back": "Retour"
+  },
+  "onboarding": {
+    "title": "Créez vos bijoux de rêve",
+    "subtitle": "Créez des pièces uniques et personnalisées avec notre outil de conception alimenté par l'IA",
+    "getStarted": "Commencer",
+    "skip": "Passer"
+  },
+  "auth": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié?",
+    "dontHaveAccount": "Vous n'avez pas de compte?",
+    "alreadyHaveAccount": "Vous avez déjà un compte?",
+    "signInWithGoogle": "Se connecter avec Google",
+    "signInWithApple": "Se connecter avec Apple"
+  },
+  "home": {
+    "title": "Glamora",
+    "designOfTheDay": "Design du jour",
+    "seasonalCollections": "Collections saisonnières",
+    "tryAIDesigner": "Essayer le concepteur IA"
+  },
+  "aiDesigner": {
+    "title": "Créez vos bijoux de rêve",
+    "selectType": "Sélectionner le type de bijoux",
+    "chooseStyle": "Choisissez votre style",
+    "refineDesign": "Affiner le design",
+    "generateDesign": "Générer le design",
+    "necklace": "Collier",
+    "bracelet": "Bracelet",
+    "earrings": "Boucles d'oreilles",
+    "ring": "Bague",
+    "modern": "Moderne",
+    "classic": "Classique",
+    "bohemian": "Bohème",
+    "minimalist": "Minimaliste",
+    "vintage": "Vintage",
+    "artDeco": "Art déco"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "designer": "Concepteur IA",
+    "gallery": "Galerie",
+    "wishlist": "Favoris",
+    "profile": "Profil"
+  }
+}
+
