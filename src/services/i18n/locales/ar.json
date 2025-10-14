@@ -1,0 +1,63 @@
+{
+  "common": {
+    "welcome": "مرحبا",
+    "continue": "متابعة",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "confirm": "تأكيد",
+    "back": "رجوع"
+  },
+  "onboarding": {
+    "title": "صمم مجوهراتك الأحلام",
+    "subtitle": "إنشاء قطع فريدة وشخصية باستخدام أداة التصميم المدعومة بالذكاء الاصطناعي",
+    "getStarted": "ابدأ",
+    "skip": "تخطي"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "التسجيل",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "alreadyHaveAccount": "هل لديك حساب بالفعل؟",
+    "signInWithGoogle": "تسجيل الدخول باستخدام جوجل",
+    "signInWithApple": "تسجيل الدخول باستخدام أبل"
+  },
+  "home": {
+    "title": "جلامورا",
+    "designOfTheDay": "تصميم اليوم",
+    "seasonalCollections": "المجموعات الموسمية",
+    "tryAIDesigner": "جرب مصمم الذكاء الاصطناعي"
+  },
+  "aiDesigner": {
+    "title": "صمم مجوهراتك الأحلام",
+    "selectType": "اختر نوع المجوهرات",
+    "chooseStyle": "اختر أسلوبك",
+    "refineDesign": "تحسين التصميم",
+    "generateDesign": "إنشاء التصميم",
+    "necklace": "عقد",
+    "bracelet": "سوار",
+    "earrings": "أقراط",
+    "ring": "خاتم",
+    "modern": "حديث",
+    "classic": "كلاسيكي",
+    "bohemian": "بوهيمي",
+    "minimalist": "بسيط",
+    "vintage": "عتيق",
+    "artDeco": "آرت ديكو"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "designer": "مصمم الذكاء الاصطناعي",
+    "gallery": "المعرض",
+    "wishlist": "المفضلة",
+    "profile": "الملف الشخصي"
+  }
+}
+
