@@ -1,0 +1,69 @@
+{
+  "expo": {
+    "name": "Glamora",
+    "slug": "glamora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "scheme": "glamora",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#221c10"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.glamora.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Glamora needs camera access for AR try-on and design photography",
+        "NSFaceIDUsageDescription": "Glamora uses Face ID to secure your account",
+        "NSPhotoLibraryUsageDescription": "Glamora needs access to save your jewelry designs"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#221c10"
+      },
+      "package": "com.glamora.app",
+      "permissions": [
+        "CAMERA",
+        "USE_BIOMETRIC",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-secure-store",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Glamora to access your camera for AR try-on"
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#ecab13"
+        }
+      ],
+      "expo-localization"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "glamora-production"
+      }
+    }
+  }
+}
+
