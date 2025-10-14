@@ -1,0 +1,63 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "continue": "Continue",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "back": "Back"
+  },
+  "onboarding": {
+    "title": "Design Your Dream Jewelry",
+    "subtitle": "Create unique, personalized pieces with our AI-powered design tool",
+    "getStarted": "Get Started",
+    "skip": "Skip"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "signInWithGoogle": "Sign in with Google",
+    "signInWithApple": "Sign in with Apple"
+  },
+  "home": {
+    "title": "Glamora",
+    "designOfTheDay": "Design of the Day",
+    "seasonalCollections": "Seasonal Collections",
+    "tryAIDesigner": "Try AI Designer"
+  },
+  "aiDesigner": {
+    "title": "Design Your Dream Jewelry",
+    "selectType": "Select Jewelry Type",
+    "chooseStyle": "Choose Your Style",
+    "refineDesign": "Refine Your Design",
+    "generateDesign": "Generate Design",
+    "necklace": "Necklace",
+    "bracelet": "Bracelet",
+    "earrings": "Earrings",
+    "ring": "Ring",
+    "modern": "Modern",
+    "classic": "Classic",
+    "bohemian": "Bohemian",
+    "minimalist": "Minimalist",
+    "vintage": "Vintage",
+    "artDeco": "Art Deco"
+  },
+  "navigation": {
+    "home": "Home",
+    "designer": "AI Designer",
+    "gallery": "Gallery",
+    "wishlist": "Wishlist",
+    "profile": "Profile"
+  }
+}
+
